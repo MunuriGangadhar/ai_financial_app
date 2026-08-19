@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Fuck the comfort</Text>
+      <Text>beast mode</Text>
     </View>
   );
 }
